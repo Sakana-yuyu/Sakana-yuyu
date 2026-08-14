@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="sakana-pixel-banner.gif" width="100%" alt="sakana — just a fish" />
+  <img src="sakana-pixel-banner.svg" width="100%" alt="sakana — just a fish" />
 </div>
 
 <br/>
