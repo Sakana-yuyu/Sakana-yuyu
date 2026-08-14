@@ -2,98 +2,34 @@
   <img src="sakana-pixel-banner.svg" width="100%" alt="sakana — just a fish" />
 </div>
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&amp;weight=400&amp;size=13&amp;duration=2800&amp;pause=900&amp;color=FF8FB8&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=620&amp;height=32&amp;lines=just+a+fish+in+the+repo+sea" alt="just a fish" />
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&duration=3000&pause=1000&color=FF8FB8&center=true&vCenter=true&repeat=true&width=680&height=40&lines=SAKANA+-+JUST+A+FISH;A+LAZY+FISH+IN+THE+REPO+SEA;PRESS+START+TO+BUILD" alt="typing" />
-</div>
-
-<div align="center">
-
-```
-      ><(((°>          PLAYER 1 : SAKANA
-   ~ ~ ~ ~ ~ ~ ~       WORLD   : GITHUB
-                       LIVES   : ∞
-```
-
-<img src="https://img.shields.io/badge/SAKANA-魚-0B1220?style=for-the-badge&labelColor=FF8FB8&color=0B1220" alt="sakana" />
-<img src="https://img.shields.io/github/stars/Sakana-yuyu?affiliations=OWNER&style=for-the-badge&labelColor=12304A&color=FF8FB8&label=STARS" alt="stars" />
-<img src="https://img.shields.io/badge/X-@Sakana19446R-0B1220?style=for-the-badge&labelColor=FF8FB8&color=0B1220" alt="x" />
-<img src="https://komarev.com/ghpvc/?username=Sakana-yuyu&style=for-the-badge&color=12304A&label=VISITS" alt="views" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/SAKANA-魚-0B1220?style=flat-square&amp;labelColor=FF8FB8&amp;color=0B1220" alt="sakana" />
+  <img src="https://img.shields.io/github/stars/Sakana-yuyu?affiliations=OWNER&amp;style=flat-square&amp;labelColor=12304A&amp;color=FF8FB8&amp;label=stars" alt="stars" />
+  <img src="https://img.shields.io/badge/X-@Sakana19446R-0B1220?style=flat-square&amp;labelColor=FF8FB8&amp;color=0B1220" alt="x" />
+  <img src="https://komarev.com/ghpvc/?username=Sakana-yuyu&amp;style=flat-square&amp;color=12304A&amp;label=visits" alt="views" />
+</p>
 
 ---
 
-```
-╔══════════════════════════════════════╗
-║  STAGE 1-1  ·  THINGS ON THE SURFACE ║
-╚══════════════════════════════════════╝
-```
+**on the surface**
 
-<div align="center">
-  <a href="https://github.com/Sakana-yuyu/cursor-byok">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sakana-yuyu&repo=cursor-byok&theme=radical&hide_border=true&bg_color=0B1220&title_color=FF8FB8&icon_color=FF8FB8&text_color=C9D6D5" alt="cursor-byok" />
-  </a>
-  <a href="https://github.com/Sakana-yuyu/deepseek-harness-desktop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sakana-yuyu&repo=deepseek-harness-desktop&theme=radical&hide_border=true&bg_color=0B1220&title_color=FF8FB8&icon_color=FF8FB8&text_color=C9D6D5" alt="deepseek-harness-desktop" />
-  </a>
-  <a href="https://github.com/Sakana-yuyu/Convbased-desktop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sakana-yuyu&repo=Convbased-desktop&theme=radical&hide_border=true&bg_color=0B1220&title_color=FF8FB8&icon_color=FF8FB8&text_color=C9D6D5" alt="Convbased-desktop" />
-  </a>
-  <a href="https://github.com/Sakana-yuyu/cockpit-tools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sakana-yuyu&repo=cockpit-tools&theme=radical&hide_border=true&bg_color=0B1220&title_color=FF8FB8&icon_color=FF8FB8&text_color=C9D6D5" alt="cockpit-tools" />
-  </a>
-</div>
+- [cursor-byok](https://github.com/Sakana-yuyu/cursor-byok) — bring your own key to Cursor
+- [deepseek-harness-desktop](https://github.com/Sakana-yuyu/deepseek-harness-desktop) — desktop client for DeepSeek Harness
+- [cockpit-tools](https://github.com/Sakana-yuyu/cockpit-tools) — small tools that keep the tank running
 
----
+**item box**
 
-```
-╔══════════════════════════════════════╗
-║  STAGE 1-2  ·  ITEM BOX              ║
-╚══════════════════════════════════════╝
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,vue,ts,js,go,rust,linux&amp;theme=dark" alt="skills" />
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,vue,ts,js,go,rust,linux&theme=dark" alt="skills" />
-</div>
+**fish tank**
 
----
-
-```
-╔══════════════════════════════════════╗
-║  STAGE 1-3  ·  FISH TANK STATS       ║
-╚══════════════════════════════════════╝
-```
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakana-yuyu&show_icons=true&theme=radical&hide_border=true&bg_color=0B1220&title_color=FF8FB8&icon_color=FF8FB8&text_color=C9D6D5&include_all_commits=true&count_private=true" height="165" alt="stats" />
-  <img src="https://streak-stats.demolab.com?user=Sakana-yuyu&theme=radical&hide_border=true&background=0B1220&ring=FF8FB8&fire=7FDBDA&currStreakLabel=7FDBDA" height="165" alt="streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakana-yuyu&layout=compact&theme=radical&hide_border=true&bg_color=0B1220&title_color=FF8FB8&text_color=C9D6D5&langs_count=8" height="165" alt="langs" />
-</div>
-
----
-
-```
-╔══════════════════════════════════════╗
-║  BONUS  ·  A SNAKE IS CHASING SAKANA ║
-╚══════════════════════════════════════╝
-```
-
-<div align="center">
-  <img src="https://icon.mzrdev.com/snk?username=Sakana-yuyu&palette=github-dark&color_bar_by_eaten=true&show_score=true&speed=1" alt="snake" />
-</div>
-
----
-
-<div align="center">
-
-```
-  GAME OVER?  →  NO
-  sakana continues swimming  ><(((°>
-```
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakana-yuyu&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0B1220&amp;title_color=FF8FB8&amp;icon_color=FF8FB8&amp;text_color=C9D6D5&amp;include_all_commits=true&amp;count_private=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakana-yuyu&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0B1220&amp;title_color=FF8FB8&amp;text_color=C9D6D5&amp;langs_count=6" height="150" alt="langs" />
+</p>
