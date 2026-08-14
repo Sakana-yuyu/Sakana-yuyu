@@ -3,7 +3,6 @@
 
   <img src="https://img.shields.io/badge/SAKANA-魚-0B1426?style=flat-square&labelColor=FF8FB8&color=0B1426" alt="sakana" />
   <img src="https://img.shields.io/github/stars/Sakana-yuyu?affiliations=OWNER&style=flat-square&labelColor=12304A&color=FF8FB8&label=STARS" alt="stars" />
-  <img src="https://img.shields.io/badge/X-@Sakana19446R-0B1426?style=flat-square&labelColor=FF8FB8&color=0B1426" alt="x" />
 
   <img src="title-surface.svg" height="28" alt="on the surface" />
 
